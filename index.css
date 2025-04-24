@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    text-align: center;
+    font-size: 45px;
+    color:aqua;
+    background-color: #123221;
+}
+h2{
+    color: #213EBC;
+    background-color: #123221;
+}
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    background-image: url(https://images7.alphacoders.com/333/333950.jpg);
+}
+#menu{
+    border: solid 3px #023047;
+    min-height: 20vh;
+    background-color: #213EBC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+#menu a{
+    font-size: 40px;
+    color: aquamarine;
+    text-decoration: none;
+    background-color: #023047;
+    border: solid 3px black;
+}
+#menu a:hover{
+    font-size: 45px;
+    color:#213EBC;
+    text-decoration: none;
+    background-color: aqua;
+    border: solid 3px black;
+}
+.brinquedos{
+    border: solid 3px #2835a3;
+    min-height: 100vh;
+}
+.brinquedos h2{
+    text-align: center;
+    font-size: 45px;
+}
+#cabecabatata{
+    background-color: burlywood;
+}
+#buzz img{
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+}
+#woody img{
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+}
+#jessy img{
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+}
+#cabecabatata img{
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+}
+#cabecabatata{
+    background-color: blanchedalmond;
+}
+#jessy{
+    background-color: bisque;
+}
+#woody{
+    background-color: #023047;
+}
+#buzz{
+    background-color:#219EBC;
+}
